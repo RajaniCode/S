@@ -3,12 +3,12 @@ HDFS
 
 - Apache Spark HDFS
 
-Credits:
---------
-https://spark.apache.org/  
-https://hadoop.apache.org/  
-https://python.org/  
-https://java.com/  
-https://scala-lang.org/  
-https://virtualbox.org/  
-https://cloudera.com/
+Credits
+-------
+[spark.apache.org](https://spark.apache.org/)  
+[hadoop.apache.org](https://hadoop.apache.org/)  
+[python.org](https://python.org/)  
+[java.com](https://java.com/)  
+[scala-lang.org](https://scala-lang.org/)  
+[virtualbox.org](https://virtualbox.org/)  
+[cloudera.com](https://cloudera.com/)
