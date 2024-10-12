@@ -25,11 +25,3 @@ https://github.com/RajaniCode/S/blob/main/Reference/Badges/HDFS/scala-sbt.org.sv
 https://github.com/RajaniCode/S/blob/main/Reference/Badges/HDFS/virtualbox.org.svg?raw=true)](https://virtualbox.org)    
 [![image](
 https://github.com/RajaniCode/S/blob/main/Reference/Badges/HDFS/cloudera.com.svg?raw=true)](https://cloudera.com)    
-
-[spark.apache.org](https://spark.apache.org/)  
-[hadoop.apache.org](https://hadoop.apache.org/)  
-[python.org](https://python.org/)  
-[java.com](https://java.com/)  
-[scala-lang.org](https://scala-lang.org/)  
-[virtualbox.org](https://virtualbox.org/)  
-[cloudera.com](https://cloudera.com/)
