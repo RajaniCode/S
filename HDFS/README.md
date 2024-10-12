@@ -1,9 +1,9 @@
 HDFS
 ----
-- HDFS
+- HDFS  
 ![image](https://github.com/RajaniCode/S/blob/main/Reference/Logos/Hadoop.svg?raw=true)
 
-- Apache Spark
+- Apache Spark  
 ![image](https://github.com/RajaniCode/S/blob/main/Reference/Logos/Spark.svg?raw=true)
 
 Credits
