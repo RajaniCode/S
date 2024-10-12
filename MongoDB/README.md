@@ -24,7 +24,7 @@ https://github.com/RajaniCode/S/blob/main/Reference/Badges/java.com.svg?raw=true
 [![image](
 https://github.com/RajaniCode/S/blob/main/Reference/Badges/scala-lang.org.svg?raw=true)](https://scala-lang.org)  
 [![image](
-https://github.com/RajaniCode/S/blob/main/Reference/Badges/scala-sbt.org.svg?raw=true)](https://scala-sbt.org)  
+https://github.com/RajaniCode/S/blob/main/Reference/Badges/scala-st.org.svg?raw=true)](https://scala-sbt.org)  
 [![image](
 https://github.com/RajaniCode/S/blob/main/Reference/Badges/vagrantup.com.svg?raw=true)](https://vagrantup.com)  
 [![image](
