@@ -9,9 +9,9 @@ HDFS
 Credits
 -------
 [![image](
-https://github.com/RajaniCode/S/blob/main/Reference/Badges/HDFS/spark.apache.org.svg?raw=true)](https://spark.apache.org)  
-[![image](
 https://github.com/RajaniCode/S/blob/main/Reference/Badges/HDFS/hadoop.apache.org.svg?raw=true)](https://hadoop.apache.org)  
+[![image](
+https://github.com/RajaniCode/S/blob/main/Reference/Badges/HDFS/spark.apache.org.svg?raw=true)](https://spark.apache.org)  
 [![image](
 https://github.com/RajaniCode/S/blob/main/Reference/Badges/HDFS/python.org.svg?raw=true)](https://python.org)  
 [![image](
