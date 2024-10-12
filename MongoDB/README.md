@@ -28,4 +28,4 @@ https://github.com/RajaniCode/S/blob/main/Reference/Badges/MongoDB/scala-sbt.org
 [![image](
 https://github.com/RajaniCode/S/blob/main/Reference/Badges/MongoDB/vagrantup.com.svg?raw=true)](https://vagrantup.com)  
 [![image](
-https://github.com/RajaniCode/S/blob/main/Reference/Badges/gradle.com.svg?raw=true)](https://gradle.com)
+https://github.com/RajaniCode/S/blob/main/Reference/Badges/MongoDB/gradle.com.svg?raw=true)](https://gradle.com)
