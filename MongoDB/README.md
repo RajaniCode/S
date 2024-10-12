@@ -8,7 +8,7 @@ MongoDB
 Credits
 -------
 [![image](
-https://github.com/RajaniCode/S/blob/main/Reference/Badges/mongodb.com.svg?raw=true)](https://hadoop.apache.org)  
+https://github.com/RajaniCode/S/blob/main/Reference/Badges/mongodb.com.svg?raw=true)](https://mongodb.com)  
 [![image](
 https://github.com/RajaniCode/S/blob/main/Reference/Badges/spark.apache.org.svg?raw=true)](https://spark.apache.org)  
 [![image](
@@ -24,6 +24,6 @@ https://github.com/RajaniCode/S/blob/main/Reference/Badges/java.com.svg?raw=true
 [![image](
 https://github.com/RajaniCode/S/blob/main/Reference/Badges/scala-lang.org.svg?raw=true)](https://scala-lang.org)  
 [![image](
-https://github.com/RajaniCode/S/blob/main/Reference/Badges/vagrantup.com.svg?raw=true)](https://vagrantup.com.org)  
+https://github.com/RajaniCode/S/blob/main/Reference/Badges/vagrantup.com.svg?raw=true)](https://vagrantup.com)  
 [![image](
 https://github.com/RajaniCode/S/blob/main/Reference/Badges/gradle.com.svg?raw=true)](https://gradle.com)
