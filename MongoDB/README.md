@@ -26,4 +26,4 @@ https://github.com/RajaniCode/S/blob/main/Reference/Badges/scala-lang.org.svg?ra
 [![image](
 https://github.com/RajaniCode/S/blob/main/Reference/Badges/vagrantup.com.svg?raw=true)](https://vagrantup.com.org)  
 [![image](
-https://github.com/RajaniCode/S/blob/main/Reference/Badges/gradle.org.svg?raw=true)](https://gradle.org)
+https://github.com/RajaniCode/S/blob/main/Reference/Badges/gradle.com.svg?raw=true)](https://gradle.com)
