@@ -1,6 +1,8 @@
 Spark
 -----
-- Apache Spark  
+
+- Apache Spark
+
 ![image](https://github.com/RajaniCode/S/blob/main/Reference/Logos/Spark.svg?raw=true)
 
 Credits
