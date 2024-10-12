@@ -20,7 +20,7 @@ https://github.com/RajaniCode/S/blob/main/Reference/Badges/pypi.org.svg?raw=true
 [![image](
 https://github.com/RajaniCode/S/blob/main/Reference/Badges/openjdk.org.svg?raw=true)](https://openjdk.org)  
 [![image](
-https://github.com/RajaniCode/S/blob/main/Reference/Badges/java.com.svg?raw=true)](https://java.com.org)  
+https://github.com/RajaniCode/S/blob/main/Reference/Badges/java.com.svg?raw=true)](https://java.com)  
 [![image](
 https://github.com/RajaniCode/S/blob/main/Reference/Badges/scala-lang.org.svg?raw=true)](https://scala-lang.org)  
 [![image](
