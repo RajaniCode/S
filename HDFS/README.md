@@ -18,7 +18,7 @@ Badges/pypi.org.svg?raw=true)](https://pypi.org)
 [![image](
 Badges/openjdk.org.svg?raw=true)](https://openjdk.org)  
 [![image](
-Badges/oracle.com.svg?raw=true)](https://oracle.com/java)    
+Badges/Java-oracle.com.svg?raw=true)](https://oracle.com/java)    
 [![image](
 Badges/scala-lang.org.svg?raw=true)](https://scala-lang.org)    
 [![image](
