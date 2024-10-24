@@ -28,4 +28,6 @@ Credits/scala-sbt.org.svg)](https://scala-sbt.org/)
 [![image](
 Credits/vagrantup.com.svg)](https://vagrantup.com/)  
 [![image](
+Credits/gradle.org.svg)](https://gradle.org/)  
+[![image](
 Credits/gradle.com.svg)](https://gradle.com/)
